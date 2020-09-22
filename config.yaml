@@ -63,17 +63,17 @@ params:
 
   # some information about you
   author:
-    name: "Jane Doe"
-    nickname: "Manager,"
-    image: "images/candle.gif"
+    name: "Equal Pay"
+    nickname: ""
+    #image: "images/candle.gif"
     # greeting message before your name. it will default to "Hi! I am" if not provided
-    greeting: "Hi"
+    greeting: "Candle for"
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "janedoe@example.com"
       phone: "+0123456789"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+    - Easy and transparent to track your team performance.
+    - Let's Candle help you to do the performance management
+    - Do you want equal pay for equal work?
