@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://getcandle.github.io/
 languageCode: en-us
 title: Candle
 theme: "toha"
