@@ -10,14 +10,11 @@ set HUGO_ENV=production
 # Build the project with ananke theme.
 hugo -D
 
-# Copy published docs to root level where Github pages read at https://getcandle.github.io/.
-cp -rf public/* ..
-
 # delete the published folder
 # rm -rf docs
 
 # Add changes from hugo folder and the root folder to git.
-git add ..
+git add .
 
 # Commit changes.
 msg="rebuilding site $(date)"
